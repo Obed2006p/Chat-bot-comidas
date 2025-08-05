@@ -1,0 +1,6 @@
+{
+  "name": "Chatbot de Pedidos de Comida",
+  "description": "Un chatbot inteligente para tomar pedidos de comida, impulsado por la API de Gemini. Los usuarios pueden ver el menú, hacer un pedido y proporcionar su dirección para la entrega.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
